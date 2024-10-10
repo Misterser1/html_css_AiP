@@ -1,0 +1,553 @@
+/* 1-3 */
+h1,h2,h3{
+    text-align: center;
+}
+/* 1-4 */
+h1,h2,h3{
+    text-align: center;
+}
+h2{
+    color: blue;
+}
+h3{
+    font-size: 16px;
+    color: red;
+}
+/* 2-3 */
+h1,h2,h3{
+    text-align: center;
+    color: red;
+}
+h3{
+    font-size: 16px;
+}
+/* 1-5 */
+ul li i{
+    color: red;
+}
+
+p i{
+    color: green;
+}
+/* 2-4 */
+p b i{
+    color: red;
+}
+/* 1-6 */
+ul li > b{
+    color: red;
+}
+/* 1-7 */
+.odd{
+    color: red;
+}
+.eve{
+    color: green;
+}
+/* 2-5 */
+.eee{
+    color: red;
+}
+/* 1-8 */
+.xxx{
+    font-size: 30px;
+}
+/* 1-9 */
+.div1{
+    color: red;
+}
+.div2{
+    color: green;
+}
+.div3{
+    color: blue;
+}
+/* 2-6 */
+.div1_3{
+    color: red;
+}
+.div2_4{
+    color: green;
+}
+/* 1-10 */
+.eee, .zzz {
+    line-height: 1.5;
+    font-family: Arial;
+}
+.eee{
+    font-size: 20px;
+}
+.zzz{
+    font-size: 30px;
+}
+/* 2-7 */
+.eee, .zzz, .ggg{
+    text-align: center;
+    font-family: Arial;
+}
+.eee{
+    font-size: 20px;
+}
+.zzz{
+    font-size: 30px;
+}
+.ggg{
+    font-size: 35px;
+}
+/* 1-11 */
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+/* 1-12 */
+.eee i{
+    color: red;
+}
+/* 1-13 */
+.eee1 .bbb{
+    color: red;
+}
+/* 2-8 */
+.eee2 h2{
+    color: red;
+}
+/* 3-2 */
+.eee h2.bbb {
+    color: red;
+}
+/* 4-2 */
+.eee h3.bbb {
+    color: red;
+}
+/* 5-2 */
+.eee p.bbb{
+    color: red;
+}
+/* 6-2 */
+.eee .bbb .kkk{
+    color: red;
+}
+/* 1-14 */
+p.bbb{
+    color: red;
+}
+/* 2-9 */
+p .bbb{
+    color: red;
+}
+/* 3-3 */
+.eee p.bbb{
+    color: red;
+}
+/* 4-3 */
+.eee p .bbb{
+    color: red;
+}
+/* 1-15 */
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+/* 2-10 */
+.one {
+    color: gold;
+    font-size: 29;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.two {
+    font-weight: 400;
+}
+.three{
+    text-decoration: underline;
+}
+/* 1-16 */
+#elem1 {
+    color: red;
+}
+#elem2 {
+    color: green;
+}
+#elem3 {
+    color: blue;
+}
+/* 1-17 */
+#block {
+    color: yellow;
+}
+.text{
+    font-size: large;
+    font-style: italic;
+}
+/* 1-18 */
+#elem h2{
+    color: red;
+}
+/* 2-11 */
+#elem .text {
+    color: red;
+}
+/* 3-4 */
+#elem p.text {
+    color: red;
+}
+/* 4-4 */ 
+#elem li.text {
+    color: red;
+}
+/* 1-19 */
+.eee.zzz.ccc{
+    color: red;
+}
+/* 1-20 */
+.bbb.zzz {
+	color: red;
+}
+/* 2-12 */
+h2.bbb.zzz {
+	color: red;
+}
+/* 3-5 */
+#elem.bbb {
+	color: red;
+}
+/* 4-5 */
+#elem.bbb.zzz {
+	color: red;
+}
+/* 5-3 */
+h2#elem.bbb {
+	color: red;
+}
+/* 1-21 */
+h2.zzz {
+	color: red;
+}
+/* 2-13 */
+h2 .zzz {
+	color: red;
+}
+/* 3-6 */
+.bbb.zzz {
+	color: red;
+}
+/* 4-6 */
+.bbb .zzz {
+	color: red;
+}
+/* 5-4 */
+.bbb.zzz.xxx {
+	color: red;
+}
+/* 6-3 */
+.bbb .zzz.xxx {
+	color: red;
+}
+/* 7-1 */
+.bbb.zzz .xxx {
+	color: red;
+}
+/* 8-1 */
+.bbb .zzz .xxx {
+	color: red;
+}
+/* 9-1 */
+#elem.bbb {
+	color: red;
+}
+/* 10-1 */
+#elem .bbb {
+	color: red;
+}
+/* 1-22 */
+#block h1, #block h2{
+    text-align: center;
+}
+/* 2-14 */
+#block h1, #block h2{
+    text-align: center;
+}
+#block h1{
+    font-size: 30px;
+}
+#block h2{
+    font-size: 20px;
+}
+/* 1-23 */
+#block h1, #block h2, #block h3{
+    text-align: center;
+}
+#block h2{
+    color: blue;
+}
+#block h3{
+    font-size: 16px;
+    color: red;
+}
+/* 2-15 */
+#block h1.eee, #block h2.zzz{
+    text-align: center;
+}
+#block h1.eee{
+    font-size: 30px;
+}
+#block h2.zzz{
+    font-size: 20px;
+}
+/* 3-7 */
+.xxx .kkk, .eee h2.zzz, #eee h2{
+    text-align: center;
+}
+/* 4-7 */
+.eee h2.zzz, .xxx{
+    text-align: center;
+}
+/* 1-24 */
+div p{
+    color: red;
+}
+/* 2-16 */
+div h2{
+    color: red;
+}
+/* 3-8 */
+#block p{
+    color: red;
+}
+/* 4-8 */
+#block h2{
+    color: red;
+}
+/* 5-5 */
+.bbb{
+    color: red;
+}
+/* 6-4 */
+#block .bbb{
+    color: red;
+}
+/* 7-2 */
+.bbb p{
+    color: red;
+}
+/* 8-2 */
+.bbb h2{
+    color: red;
+}
+/* 9-2 */
+#block .bbb p{
+    color: red;
+}
+/* 10-2 */
+.bbb, .xxx{
+    font-size: large;
+}
+/* 11-1 */
+p.bbb, h2.xxx{
+    color: red;
+}
+/* 12-1 */
+#block p.bbb, #block p.xxx {
+    color: red;
+}
+/* 13-1 */
+.fff{
+    color: red;
+}
+/* 14-1 */
+.fff p{
+    color: red;
+}
+/* 15-1 */
+p.fff{
+    color: red;
+}
+/* 16-1 */
+.fff .bbb{
+    color: red;
+}
+/* 17-1 */
+.fff h2.bbb{
+    color: red;
+}
+/* 1-25 */
+#elem + li{
+    color: red;
+}
+/* 2-17 */
+.elem + li{
+    color: red;
+}
+/* 1-26 */
+#elem ~ li{
+    color: red;
+}
+/* 1-27 */
+main * p{
+    color: red;
+}
+/* 1-28 */
+[title]{
+    color: red;
+}
+/* 2-18 */
+p[title]{
+    color: red;
+}
+/* 3-9 */
+p[title = 'hello']{
+    color: red;
+}
+/* 4-9 */
+a[href^="http://"]{
+    color: red;
+}
+/* 5-6 */
+a[href$=".html"]{
+    color: red;
+}
+/* 6-5 */
+p[title*="hello"]{
+    color: red;
+}
+/* 7-3 */
+p[class^="top-"]{
+    color: red;
+}
+/* 1-29 */
+a:hover{
+    color: red;
+    text-decoration: none;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: black;
+}
+/* 1-30 */
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+/* 1-31 */
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
+/* 1-32 */
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+/* 2-19 */
+#block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+/* 3-10 */
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
+/* 1-33 */
+li:first-child{
+    color: red;
+}
+/* 2-20 */
+li:last-child{
+    color: red;
+}
+/* 3-11 */
+li:first-child, li:last-child{
+    color: red;
+}
+/* 4-10 */
+li:nth-child(3){
+    color: red;
+}
+/* 5-7 */
+li:nth-child(even){
+    color: green;
+}   
+li:nth-child(odd){
+    color: red;
+}
+/* 6-6 */
+li:nth-child(3n){
+    color: aqua;
+}
+/* 7-4 */
+li:nth-last-child(){
+    color: green;
+}
+/* 8-3 */
+li:only-child{
+    color: darkgoldenrod;
+}
+/* 9-3 */
+li:empty{
+    border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px
+}
+/* 1-34 */
+p:first-of-type{
+    color: red;
+}
+h2:last-of-type{
+    color: red;
+}
+/* 2-21 */
+p:nth-of-type(){
+    color: red;
+}
+h2:nth-last-of-type(){
+    color: red;
+}
+/* 3-12 */
+div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: red;
+}
+/* 1-35 */
+li:not(.elem){
+    color: red;
+}
+/* 2-22 */
+li:not(:first-child){
+    color: red;
+}
+/* 3-13 */
+li:not(:first-child):not(:last-child){
+    color: red;
+}
