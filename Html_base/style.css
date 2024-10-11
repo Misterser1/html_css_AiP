@@ -1,0 +1,29 @@
+h1 {
+    color: green;
+  }
+  
+  h2 {
+    color: blue;
+  }
+  
+  h3 {
+    color: red;
+  }
+  
+  p {
+    width: 300px;
+    color: orange;
+  }
+  
+  ul {
+    color: #008080;
+  }
+  
+  ol {
+    color: rgb(0, 255, 0);
+  }
+  
+  table {
+    width: 400px;
+    height: 300px;
+  }
